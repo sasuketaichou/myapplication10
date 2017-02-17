@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/_small_list_view"
+        android:icon="@drawable/icon_view"
+        android:title="" />
+    <item
+        android:id="@+id/_camera"
+        android:icon="@drawable/icon_camera"
+        android:title="" />
+    <item
+        android:id="@+id/_galery"
+        android:icon="@drawable/icon_gallery"
+        android:title="" />
+</menu>

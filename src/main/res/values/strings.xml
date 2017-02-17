@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SnapNote</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="ButtonSave">Save</string>
+    <string name="Reminder">Reminder  :</string>
+    <string name="ButtonBack">Back</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+</resources>
